@@ -1,5 +1,6 @@
 linha1
 linha2
+<<<<<<< HEAD
 linha3
 linha4
 linha5
@@ -8,3 +9,6 @@ linha7
 linha8
 linha9
 linha10
+=======
+linha3
+>>>>>>> parent of 85fc56b (fourth commit)
